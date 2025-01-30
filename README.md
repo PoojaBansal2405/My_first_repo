@@ -1,2 +1,4 @@
 # My_first_repo
-SCM 
+My first git Repo
+<br>
+Pooja Bansal
